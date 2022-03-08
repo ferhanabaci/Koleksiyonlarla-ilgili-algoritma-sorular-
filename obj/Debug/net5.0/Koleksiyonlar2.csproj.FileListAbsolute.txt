@@ -1,0 +1,16 @@
+C:\Users\ferhan\Desktop\Pratikler\Koleksiyonlar2\bin\Debug\net5.0\Koleksiyonlar2.exe
+C:\Users\ferhan\Desktop\Pratikler\Koleksiyonlar2\bin\Debug\net5.0\Koleksiyonlar2.deps.json
+C:\Users\ferhan\Desktop\Pratikler\Koleksiyonlar2\bin\Debug\net5.0\Koleksiyonlar2.runtimeconfig.json
+C:\Users\ferhan\Desktop\Pratikler\Koleksiyonlar2\bin\Debug\net5.0\Koleksiyonlar2.runtimeconfig.dev.json
+C:\Users\ferhan\Desktop\Pratikler\Koleksiyonlar2\bin\Debug\net5.0\Koleksiyonlar2.dll
+C:\Users\ferhan\Desktop\Pratikler\Koleksiyonlar2\bin\Debug\net5.0\ref\Koleksiyonlar2.dll
+C:\Users\ferhan\Desktop\Pratikler\Koleksiyonlar2\bin\Debug\net5.0\Koleksiyonlar2.pdb
+C:\Users\ferhan\Desktop\Pratikler\Koleksiyonlar2\obj\Debug\net5.0\Koleksiyonlar2.csprojAssemblyReference.cache
+C:\Users\ferhan\Desktop\Pratikler\Koleksiyonlar2\obj\Debug\net5.0\Koleksiyonlar2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferhan\Desktop\Pratikler\Koleksiyonlar2\obj\Debug\net5.0\Koleksiyonlar2.AssemblyInfoInputs.cache
+C:\Users\ferhan\Desktop\Pratikler\Koleksiyonlar2\obj\Debug\net5.0\Koleksiyonlar2.AssemblyInfo.cs
+C:\Users\ferhan\Desktop\Pratikler\Koleksiyonlar2\obj\Debug\net5.0\Koleksiyonlar2.csproj.CoreCompileInputs.cache
+C:\Users\ferhan\Desktop\Pratikler\Koleksiyonlar2\obj\Debug\net5.0\Koleksiyonlar2.dll
+C:\Users\ferhan\Desktop\Pratikler\Koleksiyonlar2\obj\Debug\net5.0\ref\Koleksiyonlar2.dll
+C:\Users\ferhan\Desktop\Pratikler\Koleksiyonlar2\obj\Debug\net5.0\Koleksiyonlar2.pdb
+C:\Users\ferhan\Desktop\Pratikler\Koleksiyonlar2\obj\Debug\net5.0\Koleksiyonlar2.genruntimeconfig.cache
